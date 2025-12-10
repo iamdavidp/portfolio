@@ -1,5 +1,11 @@
- _   _      _ _        __        __         _     _ _ 
-| | | | ___| | | ___   \ \      / /__  _ __| | __| | |
-| |_| |/ _ \ | |/ _ \   \ \ /\ / / _ \| '__| |/ _` | |
-|  _  |  __/ | | (_) |   \ V  V / (_) | |  | | (_| |_|
-|_| |_|\___|_|_|\___/     \_/\_/ \___/|_|  |_|\__,_(_)
+# Portfolio Website
+
+In this project I focused on building my portfolio website experimenting using TypeScript. You'll find: 
+
+* projects I worked on
+* words from people that worked with me
+* more about my background
+
+## Let's connect! 
+
+<a href="https://www.linkedin.com/in/davidplubin/" target="_blank">Linkedin</a>
